@@ -1,1 +1,13 @@
-
+{
+  "schema": 2,
+  "licenses": {
+    "0BB04D0AAB572BFCDDAEE827A050480A8A3D1CE6EEFEB448B2D9B904A3B16DA6": {
+      "active": true,
+      "expires": 1786547126,
+      "hwid": "ANY",
+      "plan": "1D",
+      "created": 1786460726,
+      "format": "short-v2"
+    }
+  }
+}
