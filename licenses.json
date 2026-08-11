@@ -1,3 +1,9 @@
 {
-  "licenses": {}
+  "licenses": {
+    "4AC3DE04289234458C5C5F4056F8D2374": {
+      "active": true,
+      "expires": 1788998370,
+      "hwid": "ANY"
+    }
+  }
 }
