@@ -29,6 +29,10 @@
   "active": true,
   "expires": 0,
   "hwid": "ANY"
-    }
+    },
+    "4BCC113E9A0FC1D2EAFF805AB86E2ED1": {
+  "active": true,
+  "expires": 1786535690,
+  "hwid": "ANY"
   }
 
