@@ -8,6 +8,14 @@
       "plan": "1D",
       "created": 1786460726,
       "format": "short-v2"
+    },
+    "0AEC335CCDB0B009B4C08B194D3958FFD4E64B9F0E752F914581312D9CE76F61": {
+      "active": true,
+      "expires": 1789054681,
+      "hwid": "ANY",
+      "plan": "30D",
+      "created": 1786462681,
+      "format": "short-v2"
     }
   }
 }
